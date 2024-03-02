@@ -3,7 +3,7 @@
 # █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-02 11:59:35 UTC
+# (●) Last Update: 2024-03-02 12:31:51 UTC
 # (●) Service: AESport
 # (●) Total Channels: 255
 # (●) Join: https://t.me/realcodecrafters
@@ -36,7 +36,7 @@ https://gelive.score806.cc/uk_premiersports2/index.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-football.png" group-title="UK Channels",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsuper.score806.cc/uk_ssfb/index.m3u8
+https://gelive.score806.cc/uk_ssfb/index.m3u8
 
 #EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-premierleague.png" group-title="UK Channels",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -291,7 +291,7 @@ https://gelive.score806.cc/uk_premiersports2/index.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-football.png" group-title="US Channels",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsuper.score806.cc/uk_ssfb/index.m3u8
+https://gelive.score806.cc/uk_ssfb/index.m3u8
 
 #EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-premierleague.png" group-title="US Channels",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -546,7 +546,7 @@ https://gelive.score806.cc/uk_premiersports2/index.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-football.png" group-title="France Channels",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsuper.score806.cc/uk_ssfb/index.m3u8
+https://gelive.score806.cc/uk_ssfb/index.m3u8
 
 #EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-premierleague.png" group-title="France Channels",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -801,7 +801,7 @@ https://gelive.score806.cc/uk_premiersports2/index.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-football.png" group-title="Portugal Channels",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsuper.score806.cc/uk_ssfb/index.m3u8
+https://gelive.score806.cc/uk_ssfb/index.m3u8
 
 #EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-premierleague.png" group-title="Portugal Channels",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -1056,7 +1056,7 @@ https://gelive.score806.cc/uk_premiersports2/index.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-football.png" group-title="DSTV Channels",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsuper.score806.cc/uk_ssfb/index.m3u8
+https://gelive.score806.cc/uk_ssfb/index.m3u8
 
 #EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-premierleague.png" group-title="DSTV Channels",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://aesport.tv/
