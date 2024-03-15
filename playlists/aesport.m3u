@@ -3,7 +3,7 @@
 # █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-15 08:22:36 UTC
+# (●) Last Update: 2024-03-15 08:37:22 UTC
 # (●) Service: AESport
 # (●) Total Channels: 255
 # (●) Join: https://t.me/realcodecrafters
@@ -121,7 +121,7 @@ https://gelive.score806.cc/uk_mtv/index.m3u8
 #EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs1.png" group-title="UK Channels",FS1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ussec.score806.cc/GjJzh0E7A+EkY0w07_Qh1o6Bp6KbWVcYvklxw2OYumg=/1710505163250/us_fs1/index.m3u8
+https://ussec.score806.cc/aGTtUwSWSFgfq3VYBckVku6l1qlULKTXewmZ8FoFfag=/1710506077216/us_fs1/index.m3u8
 
 #EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs2.png" group-title="UK Channels",FS2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -376,7 +376,7 @@ https://gelive.score806.cc/uk_mtv/index.m3u8
 #EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs1.png" group-title="US Channels",FS1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ussec.score806.cc/GjJzh0E7A+EkY0w07_Qh1o6Bp6KbWVcYvklxw2OYumg=/1710505163250/us_fs1/index.m3u8
+https://ussec.score806.cc/aGTtUwSWSFgfq3VYBckVku6l1qlULKTXewmZ8FoFfag=/1710506077216/us_fs1/index.m3u8
 
 #EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs2.png" group-title="US Channels",FS2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -631,7 +631,7 @@ https://gelive.score806.cc/uk_mtv/index.m3u8
 #EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs1.png" group-title="France Channels",FS1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ussec.score806.cc/GjJzh0E7A+EkY0w07_Qh1o6Bp6KbWVcYvklxw2OYumg=/1710505163250/us_fs1/index.m3u8
+https://ussec.score806.cc/aGTtUwSWSFgfq3VYBckVku6l1qlULKTXewmZ8FoFfag=/1710506077216/us_fs1/index.m3u8
 
 #EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs2.png" group-title="France Channels",FS2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -886,7 +886,7 @@ https://gelive.score806.cc/uk_mtv/index.m3u8
 #EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs1.png" group-title="Portugal Channels",FS1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ussec.score806.cc/GjJzh0E7A+EkY0w07_Qh1o6Bp6KbWVcYvklxw2OYumg=/1710505163250/us_fs1/index.m3u8
+https://ussec.score806.cc/aGTtUwSWSFgfq3VYBckVku6l1qlULKTXewmZ8FoFfag=/1710506077216/us_fs1/index.m3u8
 
 #EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs2.png" group-title="Portugal Channels",FS2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -1141,7 +1141,7 @@ https://gelive.score806.cc/uk_mtv/index.m3u8
 #EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs1.png" group-title="DSTV Channels",FS1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ussec.score806.cc/GjJzh0E7A+EkY0w07_Qh1o6Bp6KbWVcYvklxw2OYumg=/1710505163250/us_fs1/index.m3u8
+https://ussec.score806.cc/aGTtUwSWSFgfq3VYBckVku6l1qlULKTXewmZ8FoFfag=/1710506077216/us_fs1/index.m3u8
 
 #EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs2.png" group-title="DSTV Channels",FS2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
