@@ -3,7 +3,7 @@
 # █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-18 21:00:36 UTC
+# (●) Last Update: 2024-03-18 21:19:03 UTC
 # (●) Service: AESport
 # (●) Total Channels: 160
 # (●) Join: https://t.me/realcodecrafters
@@ -161,22 +161,22 @@ https://us.score806.cc/us_wwe/index.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.acdsport.com/tvs/40.png" group-title="UK Channels",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/0mPzGp6AmQjD2mSCFMaK5ClER+sZtf3+axnTySCMVZE=/1710810035927/fr_beinsports1/index.m3u8
+https://nlsec.score806.cc/A5hOlWEm1TH4Xvz80nN2FLnexJ5AZCB03RNcaw7egCE=/1710810783000/fr_beinsports1/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="https://image.acdsport.com/tvs/41.png" group-title="UK Channels",BEIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/e9jX7KMG7t6JoAjWf_ZVjRTxrYznYKH6+Pmb2aRwAyo=/1710810035998/fr_beinsports2/index.m3u8
+https://nlsec.score806.cc/5AB5ZfT1N5Fd0tLHpEv2qEZhlUkrS44H7coPMGh1Ct8=/1710810783069/fr_beinsports2/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.acdsport.com/tvs/13.png" group-title="UK Channels",RMC SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/4JxcJovzyEUiU393OBRhpiOcjfyhhqlswCJCnAc0QCM=/1710810036076/fr_rmcsport1/index.m3u8
+https://nlsec.score806.cc/_JBumaZPSLMmu9SeldEOdEIlMPAHoXYuASZOzKx8RRE=/1710810783156/fr_rmcsport1/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 2" tvg-logo="https://image.acdsport.com/upload/Livetv/RMC_SPORT_2.png" group-title="UK Channels",RMC SPORT 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/0JFtR2VLzXtYy9Ft1KAwhgRYtZ4Hgwd4n1h9YV1NotA=/1710810036156/fr_rmcsport2/index.m3u8
+https://nlsec.score806.cc/2Wgga6ZN_ib4Hzau8lLZ19+cKGPUDRxc_G0Q+L5prXE=/1710810783240/fr_rmcsport2/index.m3u8
 
 #EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.acdsport.com/tvs/33.png" group-title="UK Channels",Eleven Sport 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -361,22 +361,22 @@ https://us.score806.cc/us_wwe/index.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.acdsport.com/tvs/40.png" group-title="US Channels",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/0mPzGp6AmQjD2mSCFMaK5ClER+sZtf3+axnTySCMVZE=/1710810035927/fr_beinsports1/index.m3u8
+https://nlsec.score806.cc/A5hOlWEm1TH4Xvz80nN2FLnexJ5AZCB03RNcaw7egCE=/1710810783000/fr_beinsports1/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="https://image.acdsport.com/tvs/41.png" group-title="US Channels",BEIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/e9jX7KMG7t6JoAjWf_ZVjRTxrYznYKH6+Pmb2aRwAyo=/1710810035998/fr_beinsports2/index.m3u8
+https://nlsec.score806.cc/5AB5ZfT1N5Fd0tLHpEv2qEZhlUkrS44H7coPMGh1Ct8=/1710810783069/fr_beinsports2/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.acdsport.com/tvs/13.png" group-title="US Channels",RMC SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/4JxcJovzyEUiU393OBRhpiOcjfyhhqlswCJCnAc0QCM=/1710810036076/fr_rmcsport1/index.m3u8
+https://nlsec.score806.cc/_JBumaZPSLMmu9SeldEOdEIlMPAHoXYuASZOzKx8RRE=/1710810783156/fr_rmcsport1/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 2" tvg-logo="https://image.acdsport.com/upload/Livetv/RMC_SPORT_2.png" group-title="US Channels",RMC SPORT 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/0JFtR2VLzXtYy9Ft1KAwhgRYtZ4Hgwd4n1h9YV1NotA=/1710810036156/fr_rmcsport2/index.m3u8
+https://nlsec.score806.cc/2Wgga6ZN_ib4Hzau8lLZ19+cKGPUDRxc_G0Q+L5prXE=/1710810783240/fr_rmcsport2/index.m3u8
 
 #EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.acdsport.com/tvs/33.png" group-title="US Channels",Eleven Sport 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -561,22 +561,22 @@ https://us.score806.cc/us_wwe/index.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.acdsport.com/tvs/40.png" group-title="France Channels",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/0mPzGp6AmQjD2mSCFMaK5ClER+sZtf3+axnTySCMVZE=/1710810035927/fr_beinsports1/index.m3u8
+https://nlsec.score806.cc/A5hOlWEm1TH4Xvz80nN2FLnexJ5AZCB03RNcaw7egCE=/1710810783000/fr_beinsports1/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="https://image.acdsport.com/tvs/41.png" group-title="France Channels",BEIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/e9jX7KMG7t6JoAjWf_ZVjRTxrYznYKH6+Pmb2aRwAyo=/1710810035998/fr_beinsports2/index.m3u8
+https://nlsec.score806.cc/5AB5ZfT1N5Fd0tLHpEv2qEZhlUkrS44H7coPMGh1Ct8=/1710810783069/fr_beinsports2/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.acdsport.com/tvs/13.png" group-title="France Channels",RMC SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/4JxcJovzyEUiU393OBRhpiOcjfyhhqlswCJCnAc0QCM=/1710810036076/fr_rmcsport1/index.m3u8
+https://nlsec.score806.cc/_JBumaZPSLMmu9SeldEOdEIlMPAHoXYuASZOzKx8RRE=/1710810783156/fr_rmcsport1/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 2" tvg-logo="https://image.acdsport.com/upload/Livetv/RMC_SPORT_2.png" group-title="France Channels",RMC SPORT 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/0JFtR2VLzXtYy9Ft1KAwhgRYtZ4Hgwd4n1h9YV1NotA=/1710810036156/fr_rmcsport2/index.m3u8
+https://nlsec.score806.cc/2Wgga6ZN_ib4Hzau8lLZ19+cKGPUDRxc_G0Q+L5prXE=/1710810783240/fr_rmcsport2/index.m3u8
 
 #EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.acdsport.com/tvs/33.png" group-title="France Channels",Eleven Sport 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -761,22 +761,22 @@ https://us.score806.cc/us_wwe/index.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.acdsport.com/tvs/40.png" group-title="Portugal Channels",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/0mPzGp6AmQjD2mSCFMaK5ClER+sZtf3+axnTySCMVZE=/1710810035927/fr_beinsports1/index.m3u8
+https://nlsec.score806.cc/A5hOlWEm1TH4Xvz80nN2FLnexJ5AZCB03RNcaw7egCE=/1710810783000/fr_beinsports1/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="https://image.acdsport.com/tvs/41.png" group-title="Portugal Channels",BEIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/e9jX7KMG7t6JoAjWf_ZVjRTxrYznYKH6+Pmb2aRwAyo=/1710810035998/fr_beinsports2/index.m3u8
+https://nlsec.score806.cc/5AB5ZfT1N5Fd0tLHpEv2qEZhlUkrS44H7coPMGh1Ct8=/1710810783069/fr_beinsports2/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.acdsport.com/tvs/13.png" group-title="Portugal Channels",RMC SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/4JxcJovzyEUiU393OBRhpiOcjfyhhqlswCJCnAc0QCM=/1710810036076/fr_rmcsport1/index.m3u8
+https://nlsec.score806.cc/_JBumaZPSLMmu9SeldEOdEIlMPAHoXYuASZOzKx8RRE=/1710810783156/fr_rmcsport1/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 2" tvg-logo="https://image.acdsport.com/upload/Livetv/RMC_SPORT_2.png" group-title="Portugal Channels",RMC SPORT 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/0JFtR2VLzXtYy9Ft1KAwhgRYtZ4Hgwd4n1h9YV1NotA=/1710810036156/fr_rmcsport2/index.m3u8
+https://nlsec.score806.cc/2Wgga6ZN_ib4Hzau8lLZ19+cKGPUDRxc_G0Q+L5prXE=/1710810783240/fr_rmcsport2/index.m3u8
 
 #EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.acdsport.com/tvs/33.png" group-title="Portugal Channels",Eleven Sport 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
