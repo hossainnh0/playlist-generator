@@ -3,9 +3,9 @@
 # █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-30 15:10:51 UTC
+# (●) Last Update: 2024-03-30 15:25:00 UTC
 # (●) Service: AESport
-# (●) Total Channels: 136
+# (●) Total Channels: 128
 # (●) Join: https://t.me/realcodecrafters
 
 #EXTINF:-1 tvg-name="TNT SPORT 1" tvg-logo="https://image.azencode.com/upload/Livetv/tntsport1.png" group-title="UK Channels",TNT SPORT 1
@@ -118,46 +118,6 @@ https://thumb.score806.cc/uk_bbcnews/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/uk_mtv/index.m3u8
 
-#EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.azencode.com/upload/Livetv/usfs1.png" group-title="UK Channels",FS1
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_fs1/index.m3u8
-
-#EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.azencode.com/upload/Livetv/usfs2.png" group-title="UK Channels",FS2
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_fs2/index.m3u8
-
-#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://image.azencode.com/tvs/88.png" group-title="UK Channels",USA Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_usa/index.m3u8
-
-#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://image.azencode.com/upload/Livetv/nfl-network.png" group-title="UK Channels",NFL Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_nflnetwork/index.m3u8
-
-#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://image.azencode.com/tvs/70.png" group-title="UK Channels",CBS Sports Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_cbssportsnetwork/index.m3u8
-
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://image.azencode.com/upload/tvs/43.png" group-title="UK Channels",NBA TV
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_nbatv/index.m3u8
-
-#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://image.azencode.com/upload/Livetv/uswillow.png" group-title="UK Channels",Willow Cricket
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_willow/index.m3u8
-
-#EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://image.azencode.com/tvs/117.png" group-title="UK Channels",WWE Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_wwe/index.m3u8
-
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.azencode.com/tvs/40.png" group-title="UK Channels",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -177,6 +137,36 @@ https://thumb.score806.cc/fr_rmcsport1/index.m3u8
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/fr_rmcsport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.azencode.com/tvs/33.png" group-title="UK Channels",Eleven Sport 1
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 2" tvg-logo="https://image.azencode.com/tvs/32.png" group-title="UK Channels",Eleven Sport 2
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 3" tvg-logo="https://image.azencode.com/tvs/31.png" group-title="UK Channels",Eleven Sport 3
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="https://image.azencode.com/tvs/36.png" group-title="UK Channels",Sport TV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 2" tvg-logo="https://image.azencode.com/tvs/37.png" group-title="UK Channels",Sport TV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_sporttv2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="https://image.azencode.com/tvs/38.png" group-title="UK Channels",Sport TV 3
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_sporttv3/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT SPORT 1" tvg-logo="https://image.azencode.com/upload/Livetv/tntsport1.png" group-title="US Channels",TNT SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -288,46 +278,6 @@ https://thumb.score806.cc/uk_bbcnews/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/uk_mtv/index.m3u8
 
-#EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.azencode.com/upload/Livetv/usfs1.png" group-title="US Channels",FS1
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_fs1/index.m3u8
-
-#EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.azencode.com/upload/Livetv/usfs2.png" group-title="US Channels",FS2
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_fs2/index.m3u8
-
-#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://image.azencode.com/tvs/88.png" group-title="US Channels",USA Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_usa/index.m3u8
-
-#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://image.azencode.com/upload/Livetv/nfl-network.png" group-title="US Channels",NFL Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_nflnetwork/index.m3u8
-
-#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://image.azencode.com/tvs/70.png" group-title="US Channels",CBS Sports Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_cbssportsnetwork/index.m3u8
-
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://image.azencode.com/upload/tvs/43.png" group-title="US Channels",NBA TV
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_nbatv/index.m3u8
-
-#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://image.azencode.com/upload/Livetv/uswillow.png" group-title="US Channels",Willow Cricket
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_willow/index.m3u8
-
-#EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://image.azencode.com/tvs/117.png" group-title="US Channels",WWE Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_wwe/index.m3u8
-
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.azencode.com/tvs/40.png" group-title="US Channels",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -347,6 +297,36 @@ https://thumb.score806.cc/fr_rmcsport1/index.m3u8
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/fr_rmcsport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.azencode.com/tvs/33.png" group-title="US Channels",Eleven Sport 1
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 2" tvg-logo="https://image.azencode.com/tvs/32.png" group-title="US Channels",Eleven Sport 2
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 3" tvg-logo="https://image.azencode.com/tvs/31.png" group-title="US Channels",Eleven Sport 3
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="https://image.azencode.com/tvs/36.png" group-title="US Channels",Sport TV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 2" tvg-logo="https://image.azencode.com/tvs/37.png" group-title="US Channels",Sport TV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_sporttv2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="https://image.azencode.com/tvs/38.png" group-title="US Channels",Sport TV 3
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_sporttv3/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT SPORT 1" tvg-logo="https://image.azencode.com/upload/Livetv/tntsport1.png" group-title="France Channels",TNT SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -458,46 +438,6 @@ https://thumb.score806.cc/uk_bbcnews/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/uk_mtv/index.m3u8
 
-#EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.azencode.com/upload/Livetv/usfs1.png" group-title="France Channels",FS1
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_fs1/index.m3u8
-
-#EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.azencode.com/upload/Livetv/usfs2.png" group-title="France Channels",FS2
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_fs2/index.m3u8
-
-#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://image.azencode.com/tvs/88.png" group-title="France Channels",USA Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_usa/index.m3u8
-
-#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://image.azencode.com/upload/Livetv/nfl-network.png" group-title="France Channels",NFL Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_nflnetwork/index.m3u8
-
-#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://image.azencode.com/tvs/70.png" group-title="France Channels",CBS Sports Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_cbssportsnetwork/index.m3u8
-
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://image.azencode.com/upload/tvs/43.png" group-title="France Channels",NBA TV
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_nbatv/index.m3u8
-
-#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://image.azencode.com/upload/Livetv/uswillow.png" group-title="France Channels",Willow Cricket
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_willow/index.m3u8
-
-#EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://image.azencode.com/tvs/117.png" group-title="France Channels",WWE Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_wwe/index.m3u8
-
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.azencode.com/tvs/40.png" group-title="France Channels",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -517,6 +457,36 @@ https://thumb.score806.cc/fr_rmcsport1/index.m3u8
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/fr_rmcsport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.azencode.com/tvs/33.png" group-title="France Channels",Eleven Sport 1
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 2" tvg-logo="https://image.azencode.com/tvs/32.png" group-title="France Channels",Eleven Sport 2
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 3" tvg-logo="https://image.azencode.com/tvs/31.png" group-title="France Channels",Eleven Sport 3
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="https://image.azencode.com/tvs/36.png" group-title="France Channels",Sport TV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 2" tvg-logo="https://image.azencode.com/tvs/37.png" group-title="France Channels",Sport TV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_sporttv2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="https://image.azencode.com/tvs/38.png" group-title="France Channels",Sport TV 3
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_sporttv3/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT SPORT 1" tvg-logo="https://image.azencode.com/upload/Livetv/tntsport1.png" group-title="Portugal Channels",TNT SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -628,46 +598,6 @@ https://thumb.score806.cc/uk_bbcnews/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/uk_mtv/index.m3u8
 
-#EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.azencode.com/upload/Livetv/usfs1.png" group-title="Portugal Channels",FS1
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_fs1/index.m3u8
-
-#EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.azencode.com/upload/Livetv/usfs2.png" group-title="Portugal Channels",FS2
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_fs2/index.m3u8
-
-#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://image.azencode.com/tvs/88.png" group-title="Portugal Channels",USA Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_usa/index.m3u8
-
-#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://image.azencode.com/upload/Livetv/nfl-network.png" group-title="Portugal Channels",NFL Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_nflnetwork/index.m3u8
-
-#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://image.azencode.com/tvs/70.png" group-title="Portugal Channels",CBS Sports Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_cbssportsnetwork/index.m3u8
-
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://image.azencode.com/upload/tvs/43.png" group-title="Portugal Channels",NBA TV
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_nbatv/index.m3u8
-
-#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://image.azencode.com/upload/Livetv/uswillow.png" group-title="Portugal Channels",Willow Cricket
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_willow/index.m3u8
-
-#EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://image.azencode.com/tvs/117.png" group-title="Portugal Channels",WWE Network
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc/us_wwe/index.m3u8
-
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.azencode.com/tvs/40.png" group-title="Portugal Channels",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -687,3 +617,33 @@ https://thumb.score806.cc/fr_rmcsport1/index.m3u8
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/fr_rmcsport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.azencode.com/tvs/33.png" group-title="Portugal Channels",Eleven Sport 1
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 2" tvg-logo="https://image.azencode.com/tvs/32.png" group-title="Portugal Channels",Eleven Sport 2
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 3" tvg-logo="https://image.azencode.com/tvs/31.png" group-title="Portugal Channels",Eleven Sport 3
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="https://image.azencode.com/tvs/36.png" group-title="Portugal Channels",Sport TV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 2" tvg-logo="https://image.azencode.com/tvs/37.png" group-title="Portugal Channels",Sport TV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_sporttv2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="https://image.azencode.com/tvs/38.png" group-title="Portugal Channels",Sport TV 3
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_sporttv3/index.m3u8
