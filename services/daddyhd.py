@@ -43,7 +43,7 @@ class DaddyHD(BaseService):
         return channels_data
 
     def _get_config_data(self) -> dict:
-        EMBED_URL = "https://dlhd.sx/embed/stream-1.php"
+        EMBED_URL = "https://dlhd.sx/embed/stream-37.php"
         parsed_embed = urlparse(EMBED_URL)
 
         response = requests.get(EMBED_URL)
